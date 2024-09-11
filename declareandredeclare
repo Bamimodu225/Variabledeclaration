@@ -1,0 +1,11 @@
+# Declare a variable named 's' and assign the value 100 to it
+s = 100
+
+# Print the value of 's'
+print("Value of s:", s)
+
+# Reassign a new value to 's'
+s = 200
+
+# Print the New value of 's'
+print("New value of s:", s)
